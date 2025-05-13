@@ -24,7 +24,7 @@ https://github.com/adamc1994/ALaBO#
 
 ## Usage
 
-The main usage file is "GridOptImprovedGraphics.m". The function of other files is as follows:
+The main usage file is "SurfaceLineOptimiser.m". The function of other files is as follows:
 
 - "LVBayesianOptimiser.m" contains the algorithm.
 - "computedistance.m" is the function for calculating the distance between two lines.
